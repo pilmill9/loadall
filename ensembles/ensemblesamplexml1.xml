@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ty:Ensemble xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://tethys.sdsu.edu/schema/1.0 tethys.xsd" xmlns:ty="http://tethys.sdsu.edu/schema/1.0">
+ 
+ 
+ 
+ 
+    <Name>Name0</Name>
+    <Unit>
+        <ID>50</ID>
+        <Project>Project0</Project>
+        <Cruise>Cruise0</Cruise>
+        <Deployment>0</Deployment>
+    </Unit>
+    <Unit>
+        <ID>50</ID>
+        <Project>Project1</Project>
+        <Site>Site0</Site>
+        <Deployment>0</Deployment>
+    </Unit>
+</ty:Ensemble>
